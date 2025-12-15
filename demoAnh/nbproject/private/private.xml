@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/WEB-INF/views/quiz.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>15</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/src/java/controller/CalculatorServlet.java</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/src/java/controller/MathQuizServlet.java</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/WEB-INF/views/quiz.jsp</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/calculator.html</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/WEB-INF/views/home.jsp</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/src/java/model/Quiz.java</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/index.html</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/login.html</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/src/java/controller/HomeServlet.java</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/src/java/model/User.java</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/META-INF/context.xml</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/WEB-INF/views/result.jsp</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/css/style.css</file>
+            <file>file:/D:/ChuyenNganh4/PRJ/demoAnh/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
